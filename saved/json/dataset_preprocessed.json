@@ -1,0 +1,320 @@
+{
+  "rows_after_preprocessing": 446190,
+  "columns": [
+    "product_name",
+    "variant",
+    "Rating_Asli",
+    "rating",
+    "review_text",
+    "product_url",
+    "Metode_Penyesuaian",
+    "Bucket_Rating_Asli",
+    "Bucket_Rating_Baru",
+    "Perlu_Diubah",
+    "sentiment",
+    "clean_text",
+    "review_length"
+  ],
+  "preview": [
+    {
+      "review_text": "Harga terjangkau dengan kualitas baik",
+      "clean_text": "harga terjangkau kualitas baik",
+      "sentiment": "positif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Harga terjangkau dengan kualitas baik",
+      "clean_text": "harga terjangkau kualitas baik",
+      "sentiment": "positif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Harga terjangkau dengan kualitas baik",
+      "clean_text": "harga terjangkau kualitas baik",
+      "sentiment": "positif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Wangi dan teksturnya lembut",
+      "clean_text": "wangi teksturnya lembut",
+      "sentiment": "positif",
+      "review_length": 4
+    },
+    {
+      "review_text": "Harga terjangkau dengan kualitas baik",
+      "clean_text": "harga terjangkau kualitas baik",
+      "sentiment": "positif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Tidak cocok di kulit saya",
+      "clean_text": "tidak cocok kulit",
+      "sentiment": "negatif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Wangi dan teksturnya lembut",
+      "clean_text": "wangi teksturnya lembut",
+      "sentiment": "positif",
+      "review_length": 4
+    },
+    {
+      "review_text": "Tidak cocok di kulit saya",
+      "clean_text": "tidak cocok kulit",
+      "sentiment": "negatif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Produk sangat bagus dan cocok di kulit saya",
+      "clean_text": "produk bagus cocok kulit",
+      "sentiment": "positif",
+      "review_length": 8
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Akan beli lagi",
+      "clean_text": "akan beli lagi",
+      "sentiment": "positif",
+      "review_length": 3
+    },
+    {
+      "review_text": "Akan beli lagi",
+      "clean_text": "akan beli lagi",
+      "sentiment": "positif",
+      "review_length": 3
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Tidak cocok di kulit saya",
+      "clean_text": "tidak cocok kulit",
+      "sentiment": "negatif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Harga terjangkau dengan kualitas baik",
+      "clean_text": "harga terjangkau kualitas baik",
+      "sentiment": "positif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Tidak membuat kulit kering",
+      "clean_text": "tidak membuat kulit kering",
+      "sentiment": "positif",
+      "review_length": 4
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Harga terjangkau dengan kualitas baik",
+      "clean_text": "harga terjangkau kualitas baik",
+      "sentiment": "positif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Kulit terasa lebih cerah",
+      "clean_text": "kulit terasa cerah",
+      "sentiment": "positif",
+      "review_length": 4
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Tidak cocok di kulit saya",
+      "clean_text": "tidak cocok kulit",
+      "sentiment": "negatif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Tidak membuat kulit kering",
+      "clean_text": "tidak membuat kulit kering",
+      "sentiment": "positif",
+      "review_length": 4
+    },
+    {
+      "review_text": "Kulit terasa lebih cerah",
+      "clean_text": "kulit terasa cerah",
+      "sentiment": "positif",
+      "review_length": 4
+    },
+    {
+      "review_text": "Wangi dan teksturnya lembut",
+      "clean_text": "wangi teksturnya lembut",
+      "sentiment": "positif",
+      "review_length": 4
+    },
+    {
+      "review_text": "Tidak membuat kulit kering",
+      "clean_text": "tidak membuat kulit kering",
+      "sentiment": "positif",
+      "review_length": 4
+    },
+    {
+      "review_text": "Tidak membuat kulit kering",
+      "clean_text": "tidak membuat kulit kering",
+      "sentiment": "positif",
+      "review_length": 4
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Kulit terasa lebih cerah",
+      "clean_text": "kulit terasa cerah",
+      "sentiment": "positif",
+      "review_length": 4
+    },
+    {
+      "review_text": "Harga terjangkau dengan kualitas baik",
+      "clean_text": "harga terjangkau kualitas baik",
+      "sentiment": "positif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Tidak cocok di kulit saya",
+      "clean_text": "tidak cocok kulit",
+      "sentiment": "negatif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Akan beli lagi",
+      "clean_text": "akan beli lagi",
+      "sentiment": "positif",
+      "review_length": 3
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Harga terjangkau dengan kualitas baik",
+      "clean_text": "harga terjangkau kualitas baik",
+      "sentiment": "positif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Tidak cocok di kulit saya",
+      "clean_text": "tidak cocok kulit",
+      "sentiment": "negatif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Harga terjangkau dengan kualitas baik",
+      "clean_text": "harga terjangkau kualitas baik",
+      "sentiment": "positif",
+      "review_length": 5
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Akan beli lagi",
+      "clean_text": "akan beli lagi",
+      "sentiment": "positif",
+      "review_length": 3
+    },
+    {
+      "review_text": "Akan beli lagi",
+      "clean_text": "akan beli lagi",
+      "sentiment": "positif",
+      "review_length": 3
+    },
+    {
+      "review_text": "Produk sangat bagus dan cocok di kulit saya",
+      "clean_text": "produk bagus cocok kulit",
+      "sentiment": "positif",
+      "review_length": 8
+    },
+    {
+      "review_text": "Produk sangat bagus dan cocok di kulit saya",
+      "clean_text": "produk bagus cocok kulit",
+      "sentiment": "positif",
+      "review_length": 8
+    },
+    {
+      "review_text": "Akan beli lagi",
+      "clean_text": "akan beli lagi",
+      "sentiment": "positif",
+      "review_length": 3
+    },
+    {
+      "review_text": "Cukup memuaskan",
+      "clean_text": "memuaskan",
+      "sentiment": "netral",
+      "review_length": 2
+    },
+    {
+      "review_text": "Akan beli lagi",
+      "clean_text": "akan beli lagi",
+      "sentiment": "positif",
+      "review_length": 3
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "raw_text": "suka banget sama produk emina asilnya bagus aku cocok",
+  "processed_text": "suka produk emina asilnya bagus cocok",
+  "prediction": "positif",
+  "confidence": 0.5508,
+  "probabilities": {
+    "negatif": 0.0392,
+    "netral": 0.41,
+    "positif": 0.5508
+  }
+}

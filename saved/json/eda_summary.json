@@ -1,0 +1,109 @@
+{
+  "total_rows": 446190,
+  "sentiment_counts": {
+    "positif": 332120,
+    "netral": 59445,
+    "negatif": 54625
+  },
+  "rating_counts": {
+    "1": 54202,
+    "2": 423,
+    "3": 59445,
+    "4": 168484,
+    "5": 163636
+  },
+  "review_length_stats": {
+    "min": 1,
+    "max": 35,
+    "mean": 4.39,
+    "median": 4.0
+  },
+  "top_words": [
+    [
+      "kulit",
+      219653
+    ],
+    [
+      "cocok",
+      109878
+    ],
+    [
+      "tidak",
+      109122
+    ],
+    [
+      "bagus",
+      57777
+    ],
+    [
+      "produk",
+      56430
+    ],
+    [
+      "kering",
+      54584
+    ],
+    [
+      "beli",
+      54495
+    ],
+    [
+      "lagi",
+      54419
+    ],
+    [
+      "membuat",
+      54402
+    ],
+    [
+      "baik",
+      54361
+    ],
+    [
+      "cerah",
+      54265
+    ],
+    [
+      "akan",
+      54264
+    ],
+    [
+      "harga",
+      54184
+    ],
+    [
+      "terasa",
+      54124
+    ],
+    [
+      "kualitas",
+      54068
+    ],
+    [
+      "terjangkau",
+      54058
+    ],
+    [
+      "lembut",
+      53909
+    ],
+    [
+      "memuaskan",
+      53896
+    ],
+    [
+      "wangi",
+      53737
+    ],
+    [
+      "teksturnya",
+      53684
+    ]
+  ],
+  "images": {
+    "sentiment_distribution": "C:\\Users\\bakhtiar prasetia\\Downloads\\DRAFT_SKRIPSI 11\\DRAFT_SKRIPSI 11\\static\\outputs\\f82e11c5c8fdf22894281541643c1fac_eda_sentiment.png",
+    "rating_distribution": "C:\\Users\\bakhtiar prasetia\\Downloads\\DRAFT_SKRIPSI 11\\DRAFT_SKRIPSI 11\\static\\outputs\\f82e11c5c8fdf22894281541643c1fac_eda_rating.png",
+    "review_length_distribution": "C:\\Users\\bakhtiar prasetia\\Downloads\\DRAFT_SKRIPSI 11\\DRAFT_SKRIPSI 11\\static\\outputs\\f82e11c5c8fdf22894281541643c1fac_eda_length.png",
+    "top_words": "C:\\Users\\bakhtiar prasetia\\Downloads\\DRAFT_SKRIPSI 11\\DRAFT_SKRIPSI 11\\static\\outputs\\f82e11c5c8fdf22894281541643c1fac_eda_top_words.png"
+  }
+}

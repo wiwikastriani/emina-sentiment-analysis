@@ -1,0 +1,37 @@
+{
+  "dataset_hash": "46e60799fa35da5bea8f4dcae9368ec2",
+  "model_name": "Naive Bayes",
+  "balancing_method": "RandomOverSampler",
+  "train_size": 1059969,
+  "test_size": 264993,
+  "features_count": 5000,
+  "metrics": {
+    "accuracy": 0.4889,
+    "precision_macro": 0.5987,
+    "recall_macro": 0.4889,
+    "f1_macro": 0.4957,
+    "precision_weighted": 0.5987,
+    "recall_weighted": 0.4889,
+    "f1_weighted": 0.4957
+  },
+  "confusion_matrix": [
+    [
+      60448,
+      27834,
+      49
+    ],
+    [
+      59014,
+      29287,
+      30
+    ],
+    [
+      32483,
+      16027,
+      39821
+    ]
+  ],
+  "report_image": "C:\\Users\\ACER\\OneDrive\\Documents\\DRAFT_SKRIPSI 1\\static\\outputs\\46e60799fa35da5bea8f4dcae9368ec2_naive_bayes_classification_report.png",
+  "cm_image": "C:\\Users\\ACER\\OneDrive\\Documents\\DRAFT_SKRIPSI 1\\static\\outputs\\46e60799fa35da5bea8f4dcae9368ec2_naive_bayes_confusion_matrix.png",
+  "from_cache": false
+}

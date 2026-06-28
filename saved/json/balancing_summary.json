@@ -1,0 +1,19 @@
+{
+  "method": "RandomUnderSampler + RandomOverSampler",
+  "reason": "Mengurangi kelas mayoritas dan menambah kelas minoritas agar seimbang pada 264.996 total data (88.332 + 88.332 + 88.332 per kelas).",
+  "before_counts": {
+    "positif": 332120,
+    "netral": 59445,
+    "negatif": 54625
+  },
+  "after_counts": {
+    "positif": 88333,
+    "netral": 88332,
+    "negatif": 88331
+  },
+  "total_balanced": 264996,
+  "images": {
+    "before": "C:\\Users\\bakhtiar prasetia\\Downloads\\DRAFT_SKRIPSI 11\\DRAFT_SKRIPSI 11\\static\\outputs\\f82e11c5c8fdf22894281541643c1fac_balancing_before.png",
+    "after": "C:\\Users\\bakhtiar prasetia\\Downloads\\DRAFT_SKRIPSI 11\\DRAFT_SKRIPSI 11\\static\\outputs\\f82e11c5c8fdf22894281541643c1fac_balancing_after.png"
+  }
+}
